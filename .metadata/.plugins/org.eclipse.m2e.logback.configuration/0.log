@@ -1,0 +1,79 @@
+2020-03-27 19:28:21,427 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-27 19:36:24,452 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.geeworks:ppmtool:0.0.1-SNAPSHOT @ C:\Users\jason\eclipse-workspace\ppmtool\pom.xml.
+2020-03-27 19:36:27,198 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:36:27,203 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 19:36:27,216 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 19:36:27,220 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:36:27,220 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jason\eclipse-workspace\ppmtool\src\test\resources
+2020-03-27 19:36:29,196 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:36:29,253 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 19:36:29,255 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 19:36:29,258 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:36:29,258 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jason\eclipse-workspace\ppmtool\src\test\resources
+2020-03-27 19:41:20,848 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.geeworks:ppmtool:0.0.1-SNAPSHOT @ C:\Users\jason\eclipse-workspace\ppmtool\pom.xml.
+2020-03-27 19:41:22,372 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:41:22,373 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 19:41:22,385 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 19:41:22,389 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:41:22,389 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jason\eclipse-workspace\ppmtool\src\test\resources
+2020-03-27 19:41:23,210 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.geeworks:ppmtool:0.0.1-SNAPSHOT @ C:\Users\jason\eclipse-workspace\ppmtool\pom.xml.
+2020-03-27 19:41:23,654 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:41:23,658 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 19:41:23,669 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 19:41:23,671 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:41:23,672 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jason\eclipse-workspace\ppmtool\src\test\resources
+2020-03-27 19:41:24,752 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:41:24,754 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 19:41:24,755 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 19:41:24,757 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:41:24,757 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jason\eclipse-workspace\ppmtool\src\test\resources
+2020-03-27 19:43:56,064 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.geeworks:ppmtool:0.0.1-SNAPSHOT @ C:\Users\jason\Desktop\TestRepo\ppmtool\pom.xml.
+2020-03-27 19:43:57,717 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/2.2.6.RELEASE/spring-boot-starter-data-jdbc-2.2.6.RELEASE.pom
+2020-03-27 19:43:58,122 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/2.2.6.RELEASE/spring-boot-starter-data-jdbc-2.2.6.RELEASE.pom
+2020-03-27 19:43:58,409 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/1.1.6.RELEASE/spring-data-jdbc-1.1.6.RELEASE.pom
+2020-03-27 19:43:59,416 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/1.1.6.RELEASE/spring-data-jdbc-1.1.6.RELEASE.pom
+2020-03-27 19:43:59,605 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational-parent/1.1.6.RELEASE/spring-data-relational-parent-1.1.6.RELEASE.pom
+2020-03-27 19:43:59,808 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational-parent/1.1.6.RELEASE/spring-data-relational-parent-1.1.6.RELEASE.pom
+2020-03-27 19:43:59,998 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.12.5/testcontainers-bom-1.12.5.pom
+2020-03-27 19:44:00,216 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.12.5/testcontainers-bom-1.12.5.pom
+2020-03-27 19:44:00,411 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/1.1.6.RELEASE/spring-data-relational-1.1.6.RELEASE.pom
+2020-03-27 19:44:00,608 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/1.1.6.RELEASE/spring-data-relational-1.1.6.RELEASE.pom
+2020-03-27 19:44:00,968 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/2.2.6.RELEASE/spring-boot-starter-data-jdbc-2.2.6.RELEASE.jar
+2020-03-27 19:44:01,241 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/2.2.6.RELEASE/spring-boot-starter-data-jdbc-2.2.6.RELEASE.jar
+2020-03-27 19:44:01,416 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/1.1.6.RELEASE/spring-data-jdbc-1.1.6.RELEASE.jar
+2020-03-27 19:44:03,344 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/1.1.6.RELEASE/spring-data-jdbc-1.1.6.RELEASE.jar
+2020-03-27 19:44:03,519 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/1.1.6.RELEASE/spring-data-relational-1.1.6.RELEASE.jar
+2020-03-27 19:44:06,667 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/1.1.6.RELEASE/spring-data-relational-1.1.6.RELEASE.jar
+2020-03-27 19:44:07,944 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ppmtool/src/main/java
+2020-03-27 19:44:07,945 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ppmtool/src/main/resources
+2020-03-27 19:44:07,965 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ppmtool/src/main/resources
+2020-03-27 19:44:07,975 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ppmtool/src/test/java
+2020-03-27 19:44:08,410 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2020-03-27 19:44:08,413 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-27 19:44:09,108 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.geeworks:ppmtool:0.0.1-SNAPSHOT @ C:\Users\jason\Desktop\TestRepo\ppmtool\pom.xml.
+2020-03-27 19:44:09,840 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/2.2.6.RELEASE/spring-boot-starter-data-jdbc-2.2.6.RELEASE-sources.jar
+2020-03-27 19:44:10,280 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ppmtool/src/main/java
+2020-03-27 19:44:10,280 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ppmtool/src/main/resources
+2020-03-27 19:44:10,283 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ppmtool/src/main/resources
+2020-03-27 19:44:10,288 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ppmtool/src/test/java
+2020-03-27 19:44:10,292 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/2.2.6.RELEASE/spring-boot-starter-data-jdbc-2.2.6.RELEASE-sources.jar
+2020-03-27 19:44:10,473 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jdbc:2.2.6.RELEASE
+2020-03-27 19:44:10,916 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-03-27 19:44:11,569 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:44:11,570 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 19:44:11,630 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 19:44:11,633 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 19:44:11,633 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jason\Desktop\TestRepo\ppmtool\src\test\resources
+2020-03-27 19:44:12,041 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/1.1.6.RELEASE/spring-data-jdbc-1.1.6.RELEASE-sources.jar
+2020-03-27 19:44:12,770 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/1.1.6.RELEASE/spring-data-jdbc-1.1.6.RELEASE-sources.jar
+2020-03-27 19:44:12,889 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:1.1.6.RELEASE
+2020-03-27 19:44:13,622 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/1.1.6.RELEASE/spring-data-relational-1.1.6.RELEASE-sources.jar
+2020-03-27 19:44:14,732 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/1.1.6.RELEASE/spring-data-relational-1.1.6.RELEASE-sources.jar
+2020-03-27 19:44:14,845 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-relational:1.1.6.RELEASE
+2020-03-27 19:44:14,852 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jdbc:2.2.6.RELEASE
+2020-03-27 19:44:14,859 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:1.1.6.RELEASE
+2020-03-27 19:44:14,866 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-relational:1.1.6.RELEASE
+2020-03-27 19:44:14,874 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jdbc:2.2.6.RELEASE
+2020-03-27 19:44:14,880 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:1.1.6.RELEASE
+2020-03-27 19:44:14,888 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-relational:1.1.6.RELEASE
+2020-03-27 19:44:14,894 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:1.1.6.RELEASE
