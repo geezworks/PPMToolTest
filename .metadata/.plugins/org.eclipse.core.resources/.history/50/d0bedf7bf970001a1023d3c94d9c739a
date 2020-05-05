@@ -1,0 +1,10 @@
+package io.geeworks.ppmtool.services;
+
+import io.geeworks.ppmtool.repositories.ProjectRepository;
+
+@Service
+public class ProjectService {
+	
+	@Autowired
+	private ProjectRepository projectRepository;
+}

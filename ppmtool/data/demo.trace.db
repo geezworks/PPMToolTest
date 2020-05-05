@@ -1,0 +1,3 @@
+2020-04-04 19:41:00 jdbc[93]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PROJECT" not found; SQL statement:
+INSERT INTO project (id, project_name, project_identifier, description, start_date, end_date, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?) [42102-200]
