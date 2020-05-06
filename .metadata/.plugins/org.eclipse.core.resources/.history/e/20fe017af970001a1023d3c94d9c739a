@@ -1,8 +1,0 @@
-package io.geeworks.ppmtool.services;
-
-@Service
-public class ProjectService {
-	
-	@Autowired
-	private ProjectRepository projectRepository
-}
