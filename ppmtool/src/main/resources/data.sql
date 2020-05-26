@@ -8,5 +8,6 @@ CREATE TABLE PROJECT (
   start_date DATE DEFAULT NULL,
   end_date DATE DEFAULT NULL,
   created_at DATE DEFAULT NULL,
-  updated_at DATE DEFAULT NULL
+  updated_at DATE DEFAULT NULL,
+  UNIQUE(project_identifier)
 );

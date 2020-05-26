@@ -1,3 +1,6 @@
 2020-04-04 19:41:00 jdbc[93]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PROJECT" not found; SQL statement:
 INSERT INTO project (id, project_name, project_identifier, description, start_date, end_date, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?) [42102-200]
+2020-05-27 00:34:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE PROJECT ( ID INT AUTO_INCREMENT PRIMARY KEY, PROJECT_NAME VARCHAR(250) NOT NULL, PROJECT_IDENTIFIER VARCHAR(250) NOT NULL),[*] DESCRIPTION VARCHAR(250) DEFAULT NULL, START_DATE DATE DEFAULT NULL, END_DATE DATE DEFAULT NULL, CREATED_AT DATE DEFAULT NULL, UPDATED_AT DATE DEFAULT NULL, UNIQUE(PROJECT_IDENTIFIER) )"; SQL statement:
+CREATE TABLE PROJECT ( id INT AUTO_INCREMENT PRIMARY KEY, project_name VARCHAR(250) NOT NULL, project_identifier VARCHAR(250) NOT NULL), description VARCHAR(250) DEFAULT NULL, start_date DATE DEFAULT NULL, end_date DATE DEFAULT NULL, created_at DATE DEFAULT NULL, updated_at DATE DEFAULT NULL, UNIQUE(project_identifier) ) [42000-200]

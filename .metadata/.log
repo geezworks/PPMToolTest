@@ -1974,3 +1974,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-26 22:57:41.559
 !MESSAGE executing callback sts4.classpath.JrvqlWmn SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-05-27 00:00:40.949
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

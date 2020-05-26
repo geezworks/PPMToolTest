@@ -2,6 +2,7 @@ package io.geeworks.ppmtool.domain;
 
 import java.util.Date;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -28,6 +29,7 @@ public class Project {
 	private String projectName;
 	@NotBlank(message = "Project identifier is required")
 	@Size(min=4,max=5, message = "Please use 4 to 5 characters")
+	@Column(updatable=false, unique=true)
 	private String projectIdentifier;
 	@NotBlank(message = "Project description is required")
 	private String description;

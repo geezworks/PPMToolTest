@@ -1,0 +1,7 @@
+package io.geeworks.ppmtool.exceptions;
+
+@ControllerAdvise
+@RestController
+public class CustomResponseEntityExceptionHandler {
+
+}

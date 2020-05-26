@@ -1,0 +1,9 @@
+package io.geeworks.ppmtool.exceptions;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@ControllerAdvise
+@RestController
+public class CustomResponseEntityExceptionHandler {
+
+}

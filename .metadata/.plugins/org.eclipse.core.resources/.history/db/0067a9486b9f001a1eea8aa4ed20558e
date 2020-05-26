@@ -1,0 +1,5 @@
+package io.geeworks.ppmtool.exceptions;
+
+public class ProjectIdException {
+
+}
