@@ -8,7 +8,6 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
     <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
     <fullyQualifiedTypeName name="io.geeworks.ppmtool.repositories.ProjectRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="io.geeworks.ppmtool.domain.Project"/>
     <fullyQualifiedTypeName name="io.geeworks.ppmtool.services.ProjectService"/>
@@ -22,4 +21,6 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="io.geeworks.ppmtool.services.MapValidatonErrorService"/>
 </qualifiedTypeNameHistroy>
